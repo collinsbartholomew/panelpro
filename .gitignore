@@ -44,3 +44,7 @@ skills-lock.json
 
 /src/generated/prisma
 .env*
+
+# dependencies
+node_modules
+.next
